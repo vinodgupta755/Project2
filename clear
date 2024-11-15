@@ -1,0 +1,27 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9bdcedf..79c18be 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,9 +1,9 @@[m
+ # New Project[m
+ [m
+[32m+[m[32m<<<<<<< HEAD[m
+ This project was created from local system[m
+ Created by Coder Vinod.[m
+[31m-<<<<<<< HEAD[m
+[31m-new file added[m
+[31m-=======[m
+ new feature added[m
+[31m->>>>>>> main[m
+[32m+[m[32m=======[m
+[32m+[m[32mThis project was created from local system.[m
+[32m+[m[32m>>>>>>> 2996be34ea1b1a5a372ee95f9f8e3a44543978f2[m
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 8e4be4a..ed5a047 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new feature -form[m
+\ No newline at end of file[m
+[32m+[m[32m//add new feature -button[m
+\ No newline at end of file[m
